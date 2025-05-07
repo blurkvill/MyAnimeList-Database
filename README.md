@@ -28,6 +28,7 @@ To run or set up this project locally:
 Here is a simplified visual representation of the schema design:
 
 📸 **ERD Screenshot**:
+![MyAnimeList ERD](https://github.com/user-attachments/assets/1cfbf3ae-cf85-4a73-b8c3-f744afc5541c)
 
 ## 🗃️ Tables Overview
 
