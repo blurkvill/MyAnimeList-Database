@@ -1,6 +1,6 @@
-# 🎌 MyAnimeListDB
+# MyAnimeListDB
 
-## 📖 Project Description
+## Project Description
 
 **MyAnimeListDB** is a structured relational database built using MySQL to store and manage information about anime series, genres, studios, users, and their favorite anime. It is designed to reflect real-world relationships such as:
 
@@ -12,7 +12,7 @@ The schema supports scalability and future feature integration for anime platfor
 
 ---
 
-## 🛠️ How to Set Up the Project
+## How to Set Up the Project
 
 To run or set up this project locally:
 
@@ -23,14 +23,14 @@ To run or set up this project locally:
    - Set up relationships and constraints.
    - Populate the database with sample data.
 
-## 🧱 ERD (Entity Relationship Diagram)
+## ERD (Entity Relationship Diagram)
 
 Here is a simplified visual representation of the schema design:
 
-📸 **ERD Screenshot**:
+ **ERD Screenshot**:
 ![MyAnimeList ERD](https://github.com/user-attachments/assets/1cfbf3ae-cf85-4a73-b8c3-f744afc5541c)
 
-## 🗃️ Tables Overview
+## Tables Overview
 
 - **Anime**: Stores anime details like title, year aired, rating, number of episodes, and studio.
 - **Genre**: Contains unique genre names.
@@ -41,13 +41,13 @@ Here is a simplified visual representation of the schema design:
 
 ---
 
-## 👤 Sample Users & Favorites
+## Sample Users & Favorites
 
 - **animefan123** likes *Attack on Titan* and *Demon Slayer*.
 - **otaku4life** likes *Spirited Away*.
 
 ---
 
-## 📬 Contact
+## Contact
 
 For questions, suggestions, or improvements, feel free to reach out or fork the project!
